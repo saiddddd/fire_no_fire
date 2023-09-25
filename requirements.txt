@@ -43,7 +43,6 @@ opt-einsum==3.3.0
 packaging==23.1
 pandas==2.1.0
 Pillow==9.5.0
-protobuf>=3.20
 pyarrow==13.0.0
 pyasn1==0.5.0
 pyasn1-modules==0.3.0
@@ -70,7 +69,6 @@ tensorboard-plugin-wit==1.8.1
 tensorflow==2.8.4
 tensorflow-estimator==2.8.0
 tensorflow-hub==0.14.0
-tensorflow-intel==2.13.0
 tensorflow-io-gcs-filesystem==0.31.0
 tensorflow-model-optimization==0.7.5
 termcolor==2.3.0
