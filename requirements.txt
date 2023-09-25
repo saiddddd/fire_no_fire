@@ -82,8 +82,6 @@ tzlocal==5.0.1
 urllib3==1.26.16
 validators==0.22.0
 watchdog==3.0.0
-protobuf>=3.20
-
 Werkzeug==2.3.7
 wrapt==1.15.0
 zipp==3.17.0
