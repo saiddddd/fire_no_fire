@@ -70,6 +70,7 @@ tensorboard-plugin-wit==1.8.1
 tensorflow==2.8.4
 tensorflow-estimator==2.8.0
 tensorflow-hub==0.14.0
+tensorflow-intel==2.13.0
 tensorflow-io-gcs-filesystem==0.31.0
 tensorflow-model-optimization==0.7.5
 termcolor==2.3.0
